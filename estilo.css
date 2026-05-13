@@ -1,0 +1,50 @@
+body{
+background-color: lightblue;
+font-family: Arial;
+margin: 20px;
+}
+
+h1{
+color: darkblue;
+text-align: center;
+}
+
+h2{
+color: purple;
+}
+
+nav{
+background-color: white;
+padding: 10px;
+margin-bottom: 20px;
+}
+
+a{
+margin: 10px;
+color: blue;
+text-decoration: none;
+}
+
+img{
+display:block;
+margin:auto;
+margin-bottom:20px;
+}
+
+button{
+background-color:white;
+padding:8px;
+border:1px solid black;
+cursor:pointer;
+}
+
+button:hover{
+background-color:lightgray;
+}
+
+footer{
+margin-top:30px;
+background-color:white;
+text-align:center;
+padding:10px;
+}
